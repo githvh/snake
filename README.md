@@ -1,5 +1,8 @@
 # Snake 5.0 in C++
 
-## Secret Gif
+## Secret
 
-![Один](C:\Users\user\Desktop\zmeika\1.git "упал")
+```shell
+# Loading… ██████████████] 99% 
+```
+
